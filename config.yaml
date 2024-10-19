@@ -1,10 +1,28 @@
-baseURL: https://example.org/
-languageCode: en-us
+baseURL: "https://tahiti-dive-management.com/"
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+
+languages:
+  fr:
+    languageName: "Français"
+    weight: 20
+  en:
+    languageName: English
+    weight: 10
 params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/theNewDynamic
+  - name: facebook
+    url: https://www.facebook.com/Tahiti-Dive-Management-219479998998180/
+  - name: instagram
+    url: https://www.instagram.com/tahitidivemanagement/
+  - name: youtube
+    url: https://www.youtube.com/channel/UCoYn6WcmoT_xlU6xy58vSpQ
   contact:
     email: tdm.dive@gmail.com
     phone: (+689) 87 32 66 80
-    facebook: https://www.facebook.com/Tahiti-Dive-Management-219479998998180/
-    instagram: https://www.instagram.com/tahitidivemanagement/
-    youtube: https://www.youtube.com/channel/UCoYn6WcmoT_xlU6xy58vSpQ
+  site_logo: img/tdm-logo.webp
 title: Tahiti Dive Management
+theme:
+- github.com/theNewDynamic/gohugo-theme-ananke
