@@ -1,0 +1,10 @@
+baseURL: https://example.org/
+languageCode: en-us
+params:
+  contact:
+    email: tdm.dive@gmail.com
+    phone: (+689) 87 32 66 80
+    facebook: https://www.facebook.com/Tahiti-Dive-Management-219479998998180/
+    instagram: https://www.instagram.com/tahitidivemanagement/
+    youtube: https://www.youtube.com/channel/UCoYn6WcmoT_xlU6xy58vSpQ
+title: Tahiti Dive Management

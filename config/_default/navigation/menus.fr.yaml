@@ -1,0 +1,13 @@
+main:
+- name: Home
+  pageRef: /
+  weight: 10
+- name: Services
+  pageRef: /our-services
+  weight: 20
+- name: About Us
+  pageRef: /about-us
+  weight: 30
+- name: Contact
+  pageRef: /contact
+  weight: 40
