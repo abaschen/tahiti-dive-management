@@ -1,11 +1,11 @@
 main:
-- name: Accueil
+- name: Home
   pageRef: /
   weight: 10
-- name: Nos Services
+- name: Services
   pageRef: /services
   weight: 20
-- name: À Propos
+- name: About Us
   pageRef: /about-us
   weight: 30
 - name: Contact
