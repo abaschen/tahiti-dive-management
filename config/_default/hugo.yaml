@@ -12,12 +12,17 @@ languages:
     weight: 10
 params:
   disable_share: true
-  background_color_class: "bg-blue"
-  ananke.social.facebook:
+  background_color_class: "bg-near-black"
+  featured_image_class: "contain bg-top"
+  social:
+    facebook:
+      username: Tahiti-Dive-Management-219479998998180
+  ananke.socials:
+    facebook:
         username: Tahiti-Dive-Management-219479998998180
-  ananke.social.instagram:
+    instagram:
         username: tahitidivemanagement
-  ananke.social.youtube:
+    youtube:
         username: UCoYn6WcmoT_xlU6xy58vSpQ
   contact:
     email: tdm.dive@gmail.com

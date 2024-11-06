@@ -1,6 +1,5 @@
 ---
 title: "Services"
-menus: services
 aliases: 
 - /nos-services
 ---
